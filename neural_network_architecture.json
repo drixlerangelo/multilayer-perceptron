@@ -1,0 +1,9 @@
+{
+    "input_size": 2,
+    "output_size": 1,
+    "output_activation": "sigmoid",
+    "hidden_layer_nodes": [2],
+    "hidden_layer_activations": ["sigmoid"],
+    "loss": "mse",
+    "optimizer": "sgd"
+}
